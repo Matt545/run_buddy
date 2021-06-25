@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://Matt545.github.io/run-buddy/
+https://matt545.github.io/run_buddy/
 
 ## Contribution
 Made with ❤️ by Matt545
